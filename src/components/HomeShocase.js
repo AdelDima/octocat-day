@@ -7,13 +7,13 @@ const HomeShowcase = () => {
   return (
     <>
       <Title className="header_container">
-        <span className="header">Octocat Day</span>
+        <span className="header">Octocat Day&nbsp;</span>
         <span role="img" aria-label="man_technologist">
           👨‍💻
         </span>
       </Title>
       <Text className="sub_header">
-        GitHub user join date
+        GitHub user join date&nbsp;	
         <span role="img" aria-label="smiley">
           😃
         </span>
